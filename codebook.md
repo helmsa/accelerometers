@@ -23,26 +23,26 @@ signals).
 These signals were used to estimate variables of the feature vector for each
 pattern: '-xyz' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tbodyacc-xyz
-tgravityacc-xyz
-tbodyaccjerk-xyz
-tbodygyro-xyz
-tbodygyrojerk-xyz
-tbodyaccmag
-tgravityaccmag
-tbodyaccjerkmag
-tbodygyromag
-tbodygyrojerkmag
-fbodyacc-xyz
-fbodyaccjerk-xyz
-fbodygyro-xyz
-fbodyaccmag
-fbodyaccjerkmag
-fbodygyromag
-fbodygyrojerkmag
+* tbodyacc-xyz
+* tgravityacc-xyz
+* tbodyaccjerk-xyz
+* tbodygyro-xyz
+* tbodygyrojerk-xyz
+* tbodyaccmag
+* tgravityaccmag
+* tbodyaccjerkmag
+* tbodygyromag
+* tbodygyrojerkmag
+* fbodyacc-xyz
+* fbodyaccjerk-xyz
+* fbodygyro-xyz
+* fbodyaccmag
+* fbodyaccjerkmag
+* fbodygyromag
+* fbodygyrojerkmag
 
 The set of variables that were estimated from these signals are: 
 
-mean: mean value
-std: Standard deviation
+* mean: mean value
+* std: Standard deviation
 
